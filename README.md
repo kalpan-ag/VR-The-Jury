@@ -26,7 +26,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="title.jpg">
     ![](https://drive.google.com/uc?export=download&id=1F2Q2F96AupNBAreSQ6HJYJREWrtCIZOk)
 
   <h3 align="center">Personal Website Portfolio</h3>
