@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/title.jpg" alt="Logo">
+    <img src="title.jpg" alt="Logo">
 
   <h3 align="center">Personal Website Portfolio</h3>
 
