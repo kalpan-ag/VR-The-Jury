@@ -152,10 +152,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kalpan Agrawal - agrawal.k@northeastern.edu
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br>
-[![LinkedIn][portfolioIcon-url]][portfolio-url]
+* Kalpan Agrawal - agrawal.k@northeastern.edu
+* [![LinkedIn][linkedin-shield]][linkedin-url]
+* [![LinkedIn][portfolioIcon-url]][portfolio-url]
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
