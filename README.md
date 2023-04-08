@@ -20,13 +20,14 @@
 -->
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
+<br>
+![](Title.jpg)
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    ![](https://drive.google.com/uc?export=download&id=1F2Q2F96AupNBAreSQ6HJYJREWrtCIZOk)
 
   <h3 align="center">Personal Website Portfolio</h3>
 
@@ -90,7 +91,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
