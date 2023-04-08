@@ -28,7 +28,7 @@
   <p align="center">
     A multi-platform "party game" that immerses one player in a 3D virtual scenario tasked with documenting a possible crime while non-immersed players act as a jury and make individual verdicts based on what the in-headset user chooses to document using their virtual camera. The game facilitates discussions about disparate perceptions and their implications for justice.
     <br />
-    <a href="https://youtu.be/0CD9m4_zrqQ">View Demo</a>
+    <a href="https://youtu.be/0CD9m4_zrqQ" target="_blank">View Demo</a>
   </p>
 </div>
 
@@ -85,6 +85,7 @@ Major frameworks/libraries used to bootstrap the project.
 
 * [![Next][Next.js]][Next-url]
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -123,36 +124,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -178,15 +149,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
 Kalpan Agrawal - agrawal.k@northeastern.edu
 [![LinkedIn][linkedin-shield]][linkedin-url]
-: [Portfolio Link](https://kalpan-ag.github.io/)
-
+<br>
+[![LinkedIn][portfolioIcon-url]][portfolio-url]
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -197,13 +166,11 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: hhttps://www.linkedin.com/in/kp-ag/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kp-ag/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
+[portfolio-url]: https://kalpan-ag.github.io/
+
