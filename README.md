@@ -56,16 +56,14 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The game consists of two levels, each with tutorials for both players at the beginning and cooperative puzzle challenges throughout. These levels are designed based on a spectrum of different cooperative dynamics and different affordances for the VR and PC. In the first level, players are introduced to core mechanics of movement and traversal, including asymmetric mechanics of parkour abilities for the PC player and teleportation for the VR player. Players have a chance to learn the controls and new mechanics in a short tutorial, then need to work together to overcome cooperative puzzle challenges.
+VR the Jury is a narrative-driven puzzle game that aims to bring immersive VR gameplay to a wider audience by allowing a non-VR player to join in the experience. The game is set in a courtroom and the player assumes the role of a juror who must investigate the case by solving puzzles, gathering evidence, and presenting their findings in court. The game consists of two modes: VR and PC. In VR mode, the player explores the crime scenes, interacts with objects and NPCs, and solves puzzles using hand movements and VR controllers. In PC mode, the player assists the VR player by examining documents, analyzing evidence, and providing advice through a dedicated interface. The level design is based on a linear narrative structure, with each level representing a day in the trial. The puzzles in each level are designed to be progressively challenging, with clues and evidence becoming more complex as the trial progresses. The cooperative gameplay mechanics are designed to create a sense of interdependence between the VR and PC players, encouraging collaboration and communication throughout the game.
 
 In the second level, asymmetric mechanics of shooting for the VR player and shield for the PC player are introduced. Similar to level one, players first have time to practice the mechanics at their own pace and then play together in cooperative challenges. The game aims to encourage cooperation between the two players by designing challenges based on cooperative dynamics that create meaningful cooperation presented by Ptrick Redding in his GDC talk with the same topic. The PC player, a treasure hunter, is searching for treasure in ancient hidden cities while he/she meets the VR player, a time traveler. The two players have different skills to learn from each other, with the VR player having technology and futuristic knowledge, and the PC player having mythical knowledge of the ancient world. The two players have a mutual give-and-take relation and balanced abilities as the game progresses.
 
-Project Goal: The goal of VR Two-gether is to create a fun and challenging cooperative game that leverages the unique strengths of both VR and PC gameplay. The game is designed to encourage players to work together, learn from each other, and overcome cooperative challenges
+Project Goal: The goal of VR The Jury is to create an immersive and engaging VR puzzle game that provides a unique cooperative gameplay experience for both VR and non-VR players. The game is designed to be accessible to a wide range of players, with intuitive controls, an engaging narrative, and challenging puzzles that require both critical thinking and collaboration.
 
 ### Built With
 
