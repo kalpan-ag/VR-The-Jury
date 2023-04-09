@@ -58,26 +58,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The game consists of two levels, each with tutorials for both players at the beginning and cooperative puzzle challenges throughout. These levels are designed based on a spectrum of different cooperative dynamics and different affordances for the VR and PC. In the first level, players are introduced to core mechanics of movement and traversal, including asymmetric mechanics of parkour abilities for the PC player and teleportation for the VR player. Players have a chance to learn the controls and new mechanics in a short tutorial, then need to work together to overcome cooperative puzzle challenges.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+In the second level, asymmetric mechanics of shooting for the VR player and shield for the PC player are introduced. Similar to level one, players first have time to practice the mechanics at their own pace and then play together in cooperative challenges. The game aims to encourage cooperation between the two players by designing challenges based on cooperative dynamics that create meaningful cooperation presented by Ptrick Redding in his GDC talk with the same topic. The PC player, a treasure hunter, is searching for treasure in ancient hidden cities while he/she meets the VR player, a time traveler. The two players have different skills to learn from each other, with the VR player having technology and futuristic knowledge, and the PC player having mythical knowledge of the ancient world. The two players have a mutual give-and-take relation and balanced abilities as the game progresses.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-
-
+Project Goal: The goal of VR Two-gether is to create a fun and challenging cooperative game that leverages the unique strengths of both VR and PC gameplay. The game is designed to encourage players to work together, learn from each other, and overcome cooperative challenges
 
 ### Built With
 
 Major frameworks/libraries used to bootstrap the project.
 
-* [![Next][Next.js]][https://kalpan-ag.github.io/]
+* ![Unity][https://unity.com/]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
