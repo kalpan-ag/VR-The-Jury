@@ -29,13 +29,10 @@
     A multi-platform "party game" that immerses one player in a 3D virtual scenario tasked with documenting a possible crime while non-immersed players act as a jury and make individual verdicts based on what the in-headset user chooses to document using their virtual camera. The game facilitates discussions about disparate perceptions and their implications for justice.
     <br />
     <a href="https://youtu.be/0CD9m4_zrqQ" target="_blank">View Demo</a>
-    <iframe allow="fullscreen;" width="100%" height="720em"	src="https://www.youtube.com/embed/0CD9m4_zrqQ?autoplay=1&mute=1"></iframe>
-
   </p>
 </div>
 
-
-
+[link](https://youtu.be/0CD9m4_zrqQ){:target="_blank"}
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
