@@ -68,51 +68,39 @@ Project Goal: The goal of VR Two-gether is to create a fun and challenging coope
 
 Major frameworks/libraries used to bootstrap the project.
 
-* [Unity][unity-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+* Unity 2021.7 LTS
+* Meta Quest 2
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+This is an example of how you set up this project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+* Windows 10+
+* Unity 2021+
+* Meta Quest VR Headset; preferable Meta Quest 2.
+
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Open Project in Unity
+
+2. Play the Project or Make a Build
 
 <!-- CONTACT -->
 ## Contact
 
 * Kalpan Agrawal - agrawal.k@northeastern.edu
 * [![LinkedIn][linkedin-shield]][linkedin-url]
-* [![LinkedIn][portfolioIcon-url]][portfolio-url]
+* [![Portfolio][portfolioIcon-url]][portfolio-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -123,6 +111,5 @@ _Below is an example of how you can instruct your audience on installing and set
 [Next-url]: https://nextjs.org/
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [portfolio-url]: https://kalpan-ag.github.io/
-[unity-url]: https://unity.com/
 
 
