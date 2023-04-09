@@ -68,7 +68,7 @@ Project Goal: The goal of VR Two-gether is to create a fun and challenging coope
 
 Major frameworks/libraries used to bootstrap the project.
 
-* [Unity][unity-url]
+* [Unity][https://unity.com/]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,4 +123,4 @@ _Below is an example of how you can instruct your audience on installing and set
 [Next-url]: https://nextjs.org/
 [portfolioIcon-url]: https://img.shields.io/badge/-Portfolio-brightgreen
 [portfolio-url]: https://kalpan-ag.github.io/
-[unity-url]: https://unity.com/
+
