@@ -94,7 +94,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 2. Open Project in Unity
 
-2. Play the Project or Make a Build
+3. Play the Project inside Unity or Make a Build
 
 <!-- CONTACT -->
 ## Contact
