@@ -24,16 +24,13 @@
 <br />
 <div align="center">
   <h3 align="center">VR The Jury</h3>
-  <center>
   <p align="justify">
     A multi-platform "party game" that immerses one player in a 3D virtual scenario tasked with documenting a possible crime while non-immersed players act as a jury and make individual verdicts based on what the in-headset user chooses to document using their virtual camera. The game facilitates discussions about disparate perceptions and their implications for justice.
     <br />
     <a href="https://youtu.be/0CD9m4_zrqQ" target="_blank">View Demo</a>
   </p>
-  </center>
 </div>
 
-[link](https://youtu.be/0CD9m4_zrqQ){:target="_blank"}
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -80,7 +77,7 @@ Use the `BLANK_README.md` to get started.
 
 Major frameworks/libraries used to bootstrap the project.
 
-* [![Next][Next.js]][Next-url]
+* [![Next][Next.js]][https://kalpan-ag.github.io/]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
