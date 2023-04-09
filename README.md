@@ -72,13 +72,6 @@ Major frameworks/libraries used to bootstrap the project.
 * Unity 2021.7 LTS
 * Meta Quest 2
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you set up this project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 * Windows 10+
