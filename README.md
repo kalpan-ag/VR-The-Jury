@@ -18,8 +18,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-![](Title.jpg)
-
+<div align="center">
+    <img src="Title.jpg">
+</div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
